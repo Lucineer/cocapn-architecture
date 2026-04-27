@@ -74,3 +74,13 @@
 All repos under github.com/Lucineer/ (renamed from CedarBeach2019 on 2026-03-31).
 
 See `fleet-onboarding` repo for full fleet map and vessel capabilities.
+
+---
+
+## Fleet Context
+
+Part of the Lucineer/Cocapn fleet. See [fleet-onboarding](https://github.com/Lucineer/fleet-onboarding) for boarding protocol.
+
+- **Vessel:** JetsonClaw1 (Jetson Orin Nano 8GB)
+- **Domain:** Low-level systems, CUDA, edge computing
+- **Comms:** Bottles via Forgemaster/Oracle1, Matrix #fleet-ops
